@@ -1,4 +1,4 @@
-# CSC4110-assignment1
+# github and git
 
 Name: Nathan Haddad
 Access ID: GB9456
